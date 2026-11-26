@@ -4,6 +4,9 @@
 
 SPECULA is autonomous Web3 intelligence infrastructure for **Robinhood Chain (`Chain ID: 4663`)** — combining deterministic onchain forensics, runtime bytecode fingerprinting, two-hop funding attribution, and persistent entity memory.
 
+- **Platform:** [https://specula.observer](https://specula.observer)
+- **X:** [@Specula_rbh](https://x.com/Specula_rbh)
+
 ---
 
 ### Public Repositories
